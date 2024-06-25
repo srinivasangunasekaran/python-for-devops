@@ -47,7 +47,7 @@ It's important to follow naming conventions and best practices for variables to 
 
 - Variable names should be descriptive and indicate their purpose.
 - Use lowercase letters and separate words with underscores (snake_case) for variable names.
-- Use uppercase letter for each word. Start the variable with lower case and the following word should start in uppercase. Ex: ec2InstanceName.
+- Use uppercase letter for each word. Start the variable with lower case and the following word should start in uppercase. Ex: ec2InstanceName. This is called camel case.
 - Avoid using reserved words (keywords) for variable names.
 - Choose meaningful names for variables.
 
